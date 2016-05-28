@@ -25,3 +25,18 @@
 > “ UX design is about delighting users by anticipating their needs
 > and giving them something they didn’t think to ask for. ”
 <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+---
+## Comment qualifier une bonne UX?
+
+- Simple and natural dialogue
+- Speak the User's language
+- Minimize Memory load
+- Use constructive error messages
+- Support call
+- Make clear Exits
+- Make shortcuts
+- Give feedbacks
+- Prevent errors
+- Thrive for consistency
