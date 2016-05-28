@@ -5,18 +5,19 @@
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://lab.hakim.se/reveal-js/",
+  "homepage": "https://rawgit.com/celineung/ux-technozaure2016/master/index.html",
   "license": "MIT",
-  "description": "The HTML Presentation Framework",
+  "description": "UX Technozaure 2016",
   "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+    "Houbeb Ung <houbeb.benothmene@zenika.com>",
+    "Celine Ung <celine.ung@zenika.com>"
   ],
   "dependencies": {
     "headjs": "~1.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/celineung/ux-technozaure2016/.git"
   },
   "ignore": [
     "**/.*",

@@ -4,13 +4,16 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>UX-Technozaure 2016</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="css/custom.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -20,12 +23,34 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+
+				<!-- page de présentation -->
+				<section id="frontpage" data-background="images/1.png" data-background-size="100%">
+					<h1 class="frontpage-font">Make it simple!</h1>
+					<h4>Sensibilisation UX pour les <span class="red-color">développeurs</span></h4>
+					<div><small>16/06/2016 - <a href="#">Houbeb Benothmene</a>, <a href="#">Céline Ung</a></small></div>
+				</section>
+
+				<!-- intercalaire: qu'est-ce que l'UX? -->
+
+				<!-- qu'est-ce que l'UX? : citations -->
+				<section data-background="#002b36">
+					<div id="focus" class="fragment paragraph-right" data-fragment-index="0">
+					// CSS à revoir
+						<p>“UX design is the art and science</p> 
+						<p id="positive-emotions">of generating positive emotions among people</p> 
+						<p>who interact with products or services.”</p>
+					</div>
+					<div class="fragment paragraph-left" data-fragment-index="1">
+						<p>UX design is about delighting users by anticipating their needs and giving them something they didn’t think to ask for</p>
+					</div>
+					<div id="greyAllPage" class="fragment" data-fragment-index="2"></div>
+				</section>
 			</div>
 		</div>
 
@@ -46,5 +71,6 @@
 				]
 			});
 		</script>
+		<script type="text/javascript" src="js/custom.js"></script>
 	</body>
 </html>
