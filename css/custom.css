@@ -8,10 +8,6 @@
     opacity:.25;
  }
 
-.reveal .red-color {
-	color: #c24242;
-}
-
 .reveal #greyAllPage{
 	text-align: left;
 	background-color: rgb(17, 17, 17);
@@ -22,14 +18,4 @@
 	left: -150%;
 	opacity: 0.8;
 	z-index:5;
-}
-
-.reveal .paragraph-right {
-	text-align:right;
-	margin-bottom:10px;
-}
-
-.reveal .paragraph-left {
-	text-align:left;
-	margin-bottom:10px;
 }
