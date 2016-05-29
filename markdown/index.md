@@ -54,6 +54,10 @@ Notes:
 ##  Comprendre l'UX
 ![Comprendre l'UX par l'exemple](images/uxui.png)
 
+Notes:
+	la route construite = design de produit
+	la route improvisée = design UX
+	
 
 ---
 ## Comment qualifier une bonne UX?
