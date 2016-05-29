@@ -1,5 +1,5 @@
 ##  Make it simple
-<!-- .slide:data-background="images/1.png" data-background-size="100%" -->
+<!-- .slide:data-background="images/frontpage.png" data-background-size="100%" -->
 
 ### Sensibilisation UX pour les développeurs
 <!-- .element: style="color: pink;" -->
@@ -40,6 +40,11 @@ Notes:
 2e définition: 
 	un utilisateur heureux du service apporté, reviendra
 	donner des exemples d'anticipation qui plairont aux utilisateurs: contact du service client, ajout de telle ou telle fonctionalité, etc.
+
+
+
+##  Comprendre l'UX
+![Comprendre l'UX par l'exemple](images/uxui.png)
 
 
 ---
