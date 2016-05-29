@@ -29,7 +29,7 @@
 > who interact with products or services.”
 <!-- .element: class="fragment quote" data-fragment-index="1" -->
 
-> Tomer Sharon, UX Researcher chez Google <!-- .element: class="quote-author" -->
+> Tomer Sharon, UX Researcher chez Google
 <!-- .element: class="fragment quote-author" data-fragment-index="1" -->
 
 <br/>
@@ -38,16 +38,18 @@
 > and giving them something they didn’t think to ask for. ”
 <!-- .element: class="fragment quote" data-fragment-index="2" -->
 
-> Reed Jones, UX Researcher chez StubHub <!-- .element: class="quote-author" -->
+> Reed Jones, UX Researcher chez StubHub
 <!-- .element: class="fragment quote-author" data-fragment-index="2" -->
 
 Notes:
 1ère définition: insister sur la création d'émotions positives
-	un utilisateur malheureux quittera le site, ne reviendra pas, ne conseillera pas l'application
-	pas d'argent
+	Un utilisateur malheureux quittera le site, ne reviendra pas. Il existe pleins d'autres sites similaires sur internet
+	Il ne conseillera pas l'application
+	Pas d'argent
 2e définition: 
-	un utilisateur heureux du service apporté, reviendra
-	donner des exemples d'anticipation qui plairont aux utilisateurs: contact du service client, ajout de telle ou telle fonctionalité, etc.
+	Un utilisateur heureux du service apporté, reviendra
+	Donner des exemples d'anticipation qui plairont aux utilisateurs: contact du service client, 
+		ajout de telle ou telle fonctionalité, etc.
 
 
 
@@ -55,9 +57,29 @@ Notes:
 ![Comprendre l'UX par l'exemple](images/uxui.png)
 
 Notes:
-	la route construite = design de produit
-	la route improvisée = design UX
-	
+	La route construite = design de produit
+	La route improvisée = design UX
+
+
+
+## Rentabilité
+
+> « La fonction la plus populaire est le bouton de recherche, 
+> parce que personne n’arrive à naviguer (...) la seconde fonction la plus 
+> populaire est le bouton d’aide, parce que la fonction de recherche 
+> n’est pas opérationnelle »
+<!-- .element: class="quote" -->
+
+> IBM Internet Operations Manager, 1998
+<!-- .element: class="quote-author" -->
+
+Notes:
+	Bien beau de plaire aux users mais quelle rentabilité?
+	IBM décide de revoir le design en se basant sur des principes simples: 
+		homogénéité de l'interface + accès rapides aux pages souvent utilisés
+	Site au lancement de la nouvelle appli: 
+		traffic +120%
+		vente +400%
 
 ---
 ## Comment qualifier une bonne UX?
