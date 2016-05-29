@@ -3,22 +3,10 @@
  *********************************************/
 
 .reveal .slide-background.present{
-	filter:alpha(opacity=20);
+	filter: alpha(opacity=20);
     filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.2);
-    opacity:.25;
+    opacity: .25;
  }
-
-.reveal #greyAllPage{
-	text-align: left;
-	background-color: rgb(17, 17, 17);
-	width: 400%;
-	height: 400%;
-	position: absolute;
-	top: -150%;
-	left: -150%;
-	opacity: 0.8;
-	z-index:5;
-}
 
 .reveal .quote {
 	font-size: 0.9em;
@@ -26,4 +14,9 @@
 
 .reveal .quote-author {
 	font-size: 0.7em;
+}
+
+.reveal .highlight {
+	color: rgb(170, 255, 0);
+	font-weight:bold;
 }

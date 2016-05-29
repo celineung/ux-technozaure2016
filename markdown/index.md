@@ -24,22 +24,19 @@
 
 ### Definitions
 
-> “ UX design is the art and science
-> of generating positive emotions among people
-> who interact with products or services.”
-<!-- .element: class="fragment quote" data-fragment-index="1" -->
-
-> Tomer Sharon, UX Researcher chez Google
-<!-- .element: class="fragment quote-author" data-fragment-index="1" -->
+> <div class="fragment" data-fragment-index="1"><p class="quote">“ UX design is the art and science of generating 
+	<span class="highlight"> positive emotions </span>
+	among people who interact with products or services.”</p>
+<p class="quote-author">Tomer Sharon, UX Researcher chez Google</p></div>
 
 <br/>
 
-> “ UX design is about delighting users by anticipating their needs
-> and giving them something they didn’t think to ask for. ”
-<!-- .element: class="fragment quote" data-fragment-index="2" -->
-
-> Reed Jones, UX Researcher chez StubHub
-<!-- .element: class="fragment quote-author" data-fragment-index="2" -->
+> <div class="fragment" data-fragment-index="2"><p class="quote">“ UX design is about delighting users by
+	<span class="highlight"> anticipating their needs </span>
+	and giving them something they 
+	<span class="highlight"> didn’t think </span>
+	to ask for. ” </p>
+<p class="quote-author">Reed Jones, UX Researcher chez StubHub</p></div>
 
 Notes:
 1ère définition: insister sur la création d'émotions positives
@@ -65,7 +62,7 @@ Notes:
 ## Rentabilité
 
 > « La fonction la plus populaire est le bouton de recherche, 
-> parce que personne n’arrive à naviguer (...) la seconde fonction la plus 
+> parce que personne n’arrive à naviguer [...] la seconde fonction la plus 
 > populaire est le bouton d’aide, parce que la fonction de recherche 
 > n’est pas opérationnelle »
 <!-- .element: class="quote" -->
