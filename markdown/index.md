@@ -51,13 +51,22 @@ Notes:
 ## Comment qualifier une bonne UX?
 
 - Simple and natural dialogue
+<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
 - Speak the User's language
+<!-- .element: class="fragment fade-up" data-fragment-index="2"-->
 - Minimize Memory load
+<!-- .element: class="fragment fade-up" data-fragment-index="3"-->
 - Use constructive error messages
+<!-- .element: class="fragment fade-up" data-fragment-index="4"-->
 - Support call
+<!-- .element: class="fragment fade-up" data-fragment-index="5"-->
 - Make clear Exits
+<!-- .element: class="fragment fade-up" data-fragment-index="6"-->
 - Make shortcuts
+<!-- .element: class="fragment fade-up" data-fragment-index="7"-->
 - Give feedbacks
+<!-- .element: class="fragment fade-up" data-fragment-index="8"-->
 - Prevent errors
+<!-- .element: class="fragment fade-up" data-fragment-index="9"-->
 - Thrive for consistency
-
+<!-- .element: class="fragment fade-up" data-fragment-index="10"-->
