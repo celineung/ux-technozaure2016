@@ -6,10 +6,18 @@
 
 16/06/2016 - Houbeb Ben Othmene & Céline Ung
 
+---
+## On parle de quoi?
+![Prez](images/prez.png)
+
+
+---
+![Prez](https://www.riffsy.com/view/riff/4402378/Anime-Just-Kidding-GIF)
+
 
 ---
 ## Qu'est-ce que l'UX?
-<!-- .slide: data-background="#222" -->
+![Prez](images/seriously.gif)
 
 
 
@@ -49,24 +57,81 @@ Notes:
 
 ---
 ## Comment qualifier une bonne UX?
+![Prez](images/checklist.png)
 
-- Simple and natural dialogue
+
+
+---
+### Simple and natural dialogue
+![Prez](images/ex1.png)
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+
+
+
+---
+### Simple and natural dialogue
+![Prez](images/ex2.png)
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+
+
+
+---
+### Simple and natural dialogue
+![Prez](images/ex3.png)
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+
+
+---
+### Simple and natural dialogue
+![Prez](images/ex4.png)
+---
+### Speak the User's language
 <!-- .element: class="fragment fade-up" data-fragment-index="1"-->
-- Speak the User's language
-<!-- .element: class="fragment fade-up" data-fragment-index="2"-->
-- Minimize Memory load
-<!-- .element: class="fragment fade-up" data-fragment-index="3"-->
-- Use constructive error messages
-<!-- .element: class="fragment fade-up" data-fragment-index="4"-->
-- Support call
+
+
+
+---
+### Minimize Memory load
+<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
+
+
+
+---
+### Use constructive error messages
+<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
+
+
+
+---
+### Support call
 <!-- .element: class="fragment fade-up" data-fragment-index="5"-->
-- Make clear Exits
+
+
+
+---
+### Make clear Exits
 <!-- .element: class="fragment fade-up" data-fragment-index="6"-->
-- Make shortcuts
+
+
+
+---
+### Make shortcuts
 <!-- .element: class="fragment fade-up" data-fragment-index="7"-->
-- Give feedbacks
+
+
+
+---
+### Give feedbacks
 <!-- .element: class="fragment fade-up" data-fragment-index="8"-->
-- Prevent errors
+
+
+
+---
+### Prevent errors
 <!-- .element: class="fragment fade-up" data-fragment-index="9"-->
-- Thrive for consistency
+
+
+
+---
+### Thrive for consistency
 <!-- .element: class="fragment fade-up" data-fragment-index="10"-->
