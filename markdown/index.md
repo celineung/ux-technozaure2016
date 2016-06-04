@@ -78,6 +78,23 @@ Notes:
 		traffic +120%
 		vente +400%
 
+
+
+## Et sans UX?
+![Comprendre l'UX par l'exemple](images/oldintranet.png)
+Notes:
+	site 100% orienté métier
+	ne tient pas compte des utilisateurs
+
+
+
+## Métier <span class="highlight">VS</span> Utilisateur
+>  "C'est bizarre, où se trouve la fonctionalité qui permet de ...?"
+
+<br/>
+
+> "Après de nombreux workshops avec les utilisateurs, jamais on ne nous a dit que cette fonctionalité était importante."
+
 ---
 ## Comment qualifier une bonne UX?
 ![Prez](images/checklist.png)
