@@ -20,3 +20,11 @@
 	color: rgb(170, 255, 0);
 	font-weight:bold;
 }
+
+.reveal .good {
+	background-color: rgb(85, 204, 0);
+}
+
+.reveal .bad {
+	background-color: rgb(127, 38, 38);
+}

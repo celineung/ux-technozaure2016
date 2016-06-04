@@ -97,79 +97,148 @@ Notes:
 
 ---
 ## Comment qualifier une bonne UX?
-![Prez](images/checklist.png)
+![checklist](images/checklist.png)
 
 
 
-### Simple and natural dialogue
-![Prez](images/ex1.png)
-<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+
+### 1- Simple and natural dialogue
+![Simple and natural dialogue](images/dialog1.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
 
-### Simple and natural dialogue
-![Prez](images/ex2.png)
-<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+
+### 1- Simple and natural dialogue
+![Simple and natural dialogue](images/dialog2.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good  </div>
 
 
 
-### Simple and natural dialogue
-![Prez](images/ex3.png)
-<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+
+### 1- Simple and natural dialogue
+![Simple and natural dialogue](images/dialog3.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2">Good</div>
 
 
 
-### Simple and natural dialogue
-![Prez](images/ex4.png)
+
+### 1- Simple and natural dialogue
+![Simple and natural dialogue](images/dialog4.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 
 
-### Speak the User's language
-<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
+
+### 2- Minimize Memory load
+![Minimize Memory load](images/load1.gif)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 
 
-### Minimize Memory load
-<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
+### 2- Minimize Memory load
+![Minimize Memory load](images/load2.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
 
-### Use constructive error messages
-<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
+
+### 3- Prevent errors
+![Prevent errors](images/error1.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 
 
-### Support call
-<!-- .element: class="fragment fade-up" data-fragment-index="5"-->
+### 4- Use constructive error messages
+> « Help users recognize, diagnose, and recover from errors
+> Error messages should be expressed in plain language (no codes),
+> precisely indicate the problem, and constructively suggest a solution »
+<!-- .element: class="quote" -->
 
 
 
-### Make clear Exits
-<!-- .element: class="fragment fade-up" data-fragment-index="6"-->
+### 4- Use constructive error messages
+![Use constructive error messages](images/constructive.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
 
-### Make shortcuts
-<!-- .element: class="fragment fade-up" data-fragment-index="7"-->
+### 5- Make clear Exits
+![Make clear Exits](images/exit1.jpg)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
 
-### Give feedbacks
-<!-- .element: class="fragment fade-up" data-fragment-index="8"-->
+### 5- Make clear Exits
+![Make clear Exits](images/exit2.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
 
-### Prevent errors
-<!-- .element: class="fragment fade-up" data-fragment-index="9"-->
+
+### 6- Make shortcuts
+![Make shortcuts](images/shortcut.jpg)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
 
-### Thrive for consistency
-<!-- .element: class="fragment fade-up" data-fragment-index="10"-->
+
+### 7- Give feedbacks
+![Give feedbacks](images/feedback1.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
+
+
+
+
+### 7- Give feedbacks
+![Give feedbacks](images/feedback2.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
+
+
+
+
+### 7- Give feedbacks
+![Give feedbacks](images/feedback3.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
+
+
+
+### 8- Thrive for consistency
+
+> « Users should not have to wonder whether different words,
+> situations, or actions mean the same thing. Follow platform conventions. »
+<!-- .element: class="quote" -->
 
 
 ---
-
 ## Truth about users
 
 ![User don’t care about learning your system](images/idontcare.gif)
