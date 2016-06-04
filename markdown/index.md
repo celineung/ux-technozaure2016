@@ -81,7 +81,7 @@ Notes:
 
 
 ## Et sans UX?
-![Comprendre l'UX par l'exemple](images/oldintranet.png)
+![Site sans UX](images/oldintranet.png)
 Notes:
 	site 100% orienté métier
 	ne tient pas compte des utilisateurs
@@ -166,3 +166,30 @@ Notes:
 
 ### Thrive for consistency
 <!-- .element: class="fragment fade-up" data-fragment-index="10"-->
+
+
+---
+
+## Truth about users
+
+![User don’t care about learning your system](images/idontcare.gif)
+Notes:
+	les points précédents permettent de guider l'utilisateur, de le rassurer pour qu'il ne se sente pas perdu
+	l'utilisateur n'est pas idiot, They just don’t care about learning your system. It doesn’t matter to them.
+	au pire, il va voir ailleurs.
+
+
+
+### Comportements utilisateur
+
+</br>
+* Don't make me think!
+* They Don’t Use Your Software The Way You Intended
+* They satisfice (satisfy + sacrifice)
+
+Notes:
+	La plupart du temps, ils font plusieurs choses en même temps (ex: manger, télé, etc.)
+	- Première règle: don't make me think = un boutton doit ressembler à un boutton. 
+	- Deuxième règle: They Don’t Use Your Software The Way You Intended = pas de temps -> ils scannent la page, utilise des "@" pour s'adresser à qqn, There’s a big difference between what you think you’ve put onto a screen and what the user thinks you’ve put onto a screen.
+	- Troisième règle: They satisfice = Most things, we just need to learn enough to get by.
+	Pour résumer, ils viennent sur le site pour chercher une réponse à qqch, s'il ne trouve pas de réponse, ils s'en vont. Il faut trouver les réponses qu'ils pourraient chercher pour qu'ils restent sur le site.
