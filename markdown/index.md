@@ -98,15 +98,27 @@ Notes:
 ---
 ## Comment qualifier une bonne UX?
 ![checklist](images/checklist.png)
+Notes:
+	Quand on évalue continuellement notre livrable/ notre produit, il est essentiel d'être à l'écoute des utilisateurs
+	face à leur intéraction avec le produit. Voici une petite checklist d'une bonne UX
 
 
+
+### 1- Simple and natural dialogue
+![Simple and natural dialogue](images/simple.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
+
+
+Notes:
+	Un contenu avec un nommage / un vocabulaire qui parle à l'utilisateur est très recherché pour une bonne UX
+	La simplicité c'est quelque chose qu'on trouve chez Google, Apple
 
 
 ### 1- Simple and natural dialogue
 ![Simple and natural dialogue](images/dialog1.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
 
-> <div class="good fragment" data-fragment-index="2"> Good </div>
+> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 
 
@@ -124,7 +136,7 @@ Notes:
 ![Simple and natural dialogue](images/dialog3.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
 
-> <div class="good fragment" data-fragment-index="2">Good</div>
+> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 
 
