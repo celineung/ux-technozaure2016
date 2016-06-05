@@ -108,10 +108,16 @@ Notes:
 ![Simple and natural dialogue](images/simple.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
 
+> « On devrait tout rendre aussi simple que possible, mais pas plus. » 
+<!-- .element: class="quote" data-fragment-index="2"-->
+<p class="quote-author">Albert Einstein</p></div>
 
 Notes:
 	Un contenu avec un nommage / un vocabulaire qui parle à l'utilisateur est très recherché pour une bonne UX
 	La simplicité c'est quelque chose qu'on trouve chez Google, Apple
+	Alors que chez ton client tu fais des écrans surchargés avec de nombreux éléments non nécessaires
+
+
 
 
 ### 1- Simple and natural dialogue
@@ -181,6 +187,11 @@ Notes:
 > precisely indicate the problem, and constructively suggest a solution »
 <!-- .element: class="quote" -->
 
+Notes: 
+	Deux éléments qu'on cherche quand on a un message d'erreur: Pourquoi l'erreur s'est produite
+	Et qu'est ce je dois faire pour y rémédier
+
+
 
 
 ### 4- Use constructive error messages
@@ -198,6 +209,10 @@ Notes:
 > <div class="good fragment" data-fragment-index="2"> Good </div>
 
 
+Notes: 
+	On parle d'un terme assez rigolo: la trouvabilité, la facilité à naviguer d’un contenu à un autre 
+	pour l’utilisateur et à trouver ce qu’il cherche.
+
 
 ### 5- Make clear Exits
 ![Make clear Exits](images/exit2.png)
@@ -214,6 +229,9 @@ Notes:
 
 > <div class="good fragment" data-fragment-index="2"> Good </div>
 
+Notes:
+	On fait référence aux chemins les plus pratiques pour les utilisateurs afin d'accéder à une fonctionnalité.
+	Cela peut être plus convenable pour un utilisateur expert
 
 
 
