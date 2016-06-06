@@ -129,6 +129,7 @@ Notes:
 Notes:
 	La route construite = design de produit
 	La route improvisée = design UX
+	L’usage du produit par l’utilisateur produit une expérience. C’est l’expérience utilisateur.
 
 
 
