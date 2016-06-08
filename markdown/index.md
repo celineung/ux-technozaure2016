@@ -208,10 +208,10 @@ Notes:
 
 > <div class="good fragment" data-fragment-index="2"> Good </div>
 
-
 Notes: 
 	On parle d'un terme assez rigolo: la trouvabilité, la facilité à naviguer d’un contenu à un autre 
 	pour l’utilisateur et à trouver ce qu’il cherche.
+
 
 
 ### 5- Make clear Exits
@@ -241,6 +241,9 @@ Notes:
 
 > <div class="good fragment" data-fragment-index="2"> Good </div>
 
+Notes:
+	Il est important de récolter les feedbacks des utilisateurs grâce à un formulaire contextuel
+	et personnalisable sans établir une démarche couteuse ou lourde
 
 
 
