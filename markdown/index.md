@@ -80,9 +80,18 @@
 ![Prez](images/seriously.jpeg)
 <!-- .element: style="background-color: white;" -->
 
+
+
+## On parle de quoi?
+
+- Qu'est-ce que l'UX
+- Comment qualifier une bonne UX?
+- Truth about users
+- Workshop
+
 ---
 ## Qu'est-ce que l'UX?
-
+![good question](images/good_question.gif)
 
 
 
@@ -374,8 +383,8 @@ Notes:
 	Pour résumer, ils viennent sur le site pour chercher une réponse à qqch, s'il ne trouve pas de réponse, ils s'en vont. Il faut trouver les réponses qu'ils pourraient chercher pour qu'ils restent sur le site.
 
 
-
-### Workshop
+---
+## Workshop
 ![Workshop](images/workshop.gif)
 
 Notes: 
