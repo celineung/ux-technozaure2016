@@ -9,38 +9,53 @@
 
 ---
 <!-- .slide:data-background="images/celine_1.jpg" data-background-position="right" data-background-size="500px auto"-->
->  Mes passions:
-<!-- .element: class="left" -->
+<blockquote>
+	<div class="highlight">Mes passions:</div>
+	<div>Lire, Voyager, Shopping</div>
+</blockquote>
+<!-- .element: class="fragment navigate-next left" data-fragment-index="1"  data-transition="slide"-->
 
 <br/>
 
-> Mes applications préférées:
-<!-- .element: class="left" -->
+<blockquote>
+	<div class="highlight">Mes applications préférées:</div>
+	<div>ShowroomPrivée, Youtube, La Fourchette</div>
+</blockquote>
+<!-- .element: class="fragment navigate-next left" data-fragment-index="2"  data-transition="slide"-->
 
 <br/>
 
-> Ce que j'aime pas:
-<!-- .element: class="left" -->
+<blockquote>
+	<div class="highlight">Ce que je n'aime pas:</div>
+	<div>Le désordre</div>
+</blockquote>
+<!-- .element: class="fragment navigate-next left" data-fragment-index="3"  data-transition="slide"-->
 
 
 
 
 <!-- .slide:data-background="images/houbeb_1.jpg" data-background-position="left" data-background-size="500px auto"-->
->  Mes passions:
-Vélo, Yoga, Photographie
-<!-- .element: class="fragment navigate-next left" data-fragment-index="1"  data-transition="slide"-->
+<blockquote>
+	<div class="highlight">Mes passions:</div>
+	<div>Vélo, Yoga, Photographie</div>
+</blockquote>
+<!-- .element: class="fragment navigate-next right" data-fragment-index="1"  data-transition="slide"-->
 
 <br/>
 
-> Mes applications préférées:
-Instagram, pogdesign, Spotify
-<!-- .element: class="fragment navigate-next left" data-fragment-index="2"  data-transition="slide"-->
+<blockquote>
+	<div class="highlight">Mes applications préférées:</div>
+	<div>Instagram, pogdesign, Spotify</div>
+</blockquote>
+<!-- .element: class="fragment navigate-next right" data-fragment-index="2"  data-transition="slide"-->
 
 <br/>
 
-> Ce que j'aime pas:
-Râler, l'indécision Et le site de Jenkins
-<!-- .element: class="fragment navigate-next left" data-fragment-index="3"  data-transition="slide"-->
+<blockquote>
+	<div class="highlight">Ce que je n'aime pas:</div>
+	<div>Râler, l'indécision Et le site de Jenkins</div>
+</blockquote>
+<!-- .element: class="fragment navigate-next right" data-fragment-index="3"  data-transition="slide"-->
 
 
 
@@ -110,11 +125,10 @@ Notes:
 
 ## Rentabilité
 
-> « La fonction la plus populaire est le bouton de recherche, 
-> parce que personne n’arrive à naviguer [...] la seconde fonction la plus 
-> populaire est le bouton d’aide, parce que la fonction de recherche 
-> n’est pas opérationnelle »
-<!-- .element: class="quote" -->
+> <div class="quote">« La fonction la plus populaire est le <span class="highlight">bouton de recherche</span>, 
+parce que personne n’arrive à naviguer [...] la seconde fonction la plus 
+populaire est le <span class="highlight">bouton d’aide</span>, parce que la fonction de recherche 
+n’est pas opérationnelle »</div>
 
 > IBM Internet Operations Manager, 1998
 <!-- .element: class="quote-author" -->
