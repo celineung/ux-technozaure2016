@@ -28,3 +28,13 @@
 .reveal .bad {
 	background-color: rgb(127, 38, 38);
 }
+
+.reveal .left {
+	float: left;
+	text-align: left;
+}
+
+.reveal .right {
+	float: right;
+	text-align: right;
+}

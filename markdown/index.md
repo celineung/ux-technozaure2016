@@ -6,18 +6,67 @@
 
 16/06/2016 - Houbeb Ben Othmene & Céline Ung
 
+
+---
+<!-- .slide:data-background="images/celine_1.jpg" data-background-position="right" data-background-size="500px auto"-->
+>  Mes passions:
+<!-- .element: class="left" -->
+
+<br/>
+
+> Mes applications préférées:
+<!-- .element: class="left" -->
+
+<br/>
+
+> Ce que j'aime pas:
+<!-- .element: class="left" -->
+
+
+
+
+<!-- .slide:data-background="images/houbeb_1.jpg" data-background-position="left" data-background-size="500px auto"-->
+>  Mes passions:
+Vélo, Yoga, Photographie
+<!-- .element: class="fragment navigate-next left" data-fragment-index="1"  data-transition="slide"-->
+
+<br/>
+
+> Mes applications préférées:
+Instagram, pogdesign, Spotify
+<!-- .element: class="fragment navigate-next left" data-fragment-index="2"  data-transition="slide"-->
+
+<br/>
+
+> Ce que j'aime pas:
+Râler, l'indécision Et le site de Jenkins
+<!-- .element: class="fragment navigate-next left" data-fragment-index="3"  data-transition="slide"-->
+
+
+
+## Qui sommes nous?
+![Prez](images/celine&houb_1.jpg)
+
+
+
+
+## Qui sommes nous?
+![Prez](images/celine&houb_2.jpg)
+
+
+
+
 ---
 ## On parle de quoi?
 ![Prez](images/prez.png)
 
 
 
-![Prez](https://www.riffsy.com/view/riff/4402378/Anime-Just-Kidding-GIF)
-
+![Prez](images/seriously.jpeg)
+<!-- .element: style="background-color: white;" -->
 
 ---
 ## Qu'est-ce que l'UX?
-![Prez](images/seriously.gif)
 
 
 
@@ -104,13 +153,17 @@ Notes:
 
 
 
+![Simple and natural dialogue](images/code.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
+
+
+
+
 ### 1- Simple and natural dialogue
 ![Simple and natural dialogue](images/simple.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
 
-> « On devrait tout rendre aussi simple que possible, mais pas plus. » 
-<!-- .element: class="quote" data-fragment-index="2"-->
-<p class="quote-author">Albert Einstein</p></div>
+> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 Notes:
 	Un contenu avec un nommage / un vocabulaire qui parle à l'utilisateur est très recherché pour une bonne UX
@@ -156,7 +209,7 @@ Notes:
 
 
 
-### 2- Minimize Memory load
+### 2- Minimize loading
 ![Minimize Memory load](images/load1.gif)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -164,7 +217,7 @@ Notes:
 
 
 
-### 2- Minimize Memory load
+### 2- Minimize loading
 ![Minimize Memory load](images/load2.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -227,15 +280,25 @@ Notes:
 ![Make shortcuts](images/shortcut.jpg)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
-> <div class="good fragment" data-fragment-index="2"> Good </div>
-
 Notes:
 	On fait référence aux chemins les plus pratiques pour les utilisateurs afin d'accéder à une fonctionnalité.
 	Cela peut être plus convenable pour un utilisateur expert
 
+  
+  
+  
+### 6- Make shortcuts
+![Make shortcuts](images/shortcut.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
+
+Notes:
+	Un très bon exemple que je connais c'est celui de github
+	
 
 
-### 7- Give feedbacks
+### 7- Feedbacks <->
 ![Give feedbacks](images/feedback1.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -247,7 +310,7 @@ Notes:
 
 
 
-### 7- Give feedbacks
+### 7- Feedbacks <->
 ![Give feedbacks](images/feedback2.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -256,7 +319,7 @@ Notes:
 
 
 
-### 7- Give feedbacks
+### 7- Feedbacks <->
 ![Give feedbacks](images/feedback3.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -264,7 +327,7 @@ Notes:
 
 
 
-### 8- Thrive for consistency
+### 8- Consistency
 
 > « Users should not have to wonder whether different words,
 > situations, or actions mean the same thing. Follow platform conventions. »
@@ -295,3 +358,34 @@ Notes:
 	- Deuxième règle: They Don’t Use Your Software The Way You Intended = pas de temps -> ils scannent la page, utilise des "@" pour s'adresser à qqn, There’s a big difference between what you think you’ve put onto a screen and what the user thinks you’ve put onto a screen.
 	- Troisième règle: They satisfice = Most things, we just need to learn enough to get by.
 	Pour résumer, ils viennent sur le site pour chercher une réponse à qqch, s'il ne trouve pas de réponse, ils s'en vont. Il faut trouver les réponses qu'ils pourraient chercher pour qu'ils restent sur le site.
+
+
+
+### Workshop
+![Workshop](images/workshop.gif)
+
+Notes: 
+
+
+
+
+### We did it before 
+
+ 
+![previous-workshop](images/previous-workshop.png)
+
+Notes: 
+
+
+
+### Keep in mind
+>  <div class="fragment" data-fragment-index="1"><p class="quote">If <span class="highlight"> clients (or someone else) </span> don't get it, 
+ 	there is generally something to be improved .</div>
+ 
+![Thanks](images/thanks.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="2" data-transition="slide"-->
+
+Notes: 
+
+  
+  
