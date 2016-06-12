@@ -69,8 +69,6 @@
 ![Prez](images/celine&houb_2.jpg)
 
 
-
-
 ---
 ## On parle de quoi?
 ![Prez](images/prez.png)
@@ -373,26 +371,20 @@ Notes:
 
 
 ---
+
 ## Workshop
 ![Workshop](images/workshop.gif)
-
-Notes: 
-
 
 
 
 ### We did it before 
-
- 
 ![previous-workshop](images/previous-workshop.png)
+ 
 
-Notes: 
-
-
+---
 
 ### Keep in mind
-> <div class=fragment" data-fragment-index="1"><p class="quote">If <span class="highlight"> clients (or someone else) </span> don't get it, 
- 	there is generally something to be improved .</div>
+> <div class=fragment" data-fragment-index="1"><p class="quote">If <span class="highlight"> clients (or someone else) </span> don't get it, there is generally something to be improved .</div>
  
 ![Thanks](images/thanks.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="2" data-transition="slide"-->
