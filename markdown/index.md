@@ -183,15 +183,13 @@ Notes:
 
 
 ### 1- Simple and natural dialogue
-![Simple and natural dialogue](images/simple.png)
+![Simple and natural dialogue](images/dialog0.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
 
-> <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
 Notes:
-	Un contenu avec un nommage / un vocabulaire qui parle à l'utilisateur est très recherché pour une bonne UX
-	La simplicité c'est quelque chose qu'on trouve chez Google, Apple
-	Alors que chez ton client tu fais des écrans surchargés avec de nombreux éléments non nécessaires
+	Un contenu avec un bon wording c'est aussi le bon terme, la bonne typographie, le bon emplacement le bon ajustement
+	Il y a plein d'exemple qui illustrent ça
 
 
 
@@ -269,7 +267,6 @@ Notes:
 
 
 
-
 ### 4- Use constructive error messages
 ![Use constructive error messages](images/constructive.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
@@ -300,25 +297,16 @@ Notes:
 
 
 ### 6- Make shortcuts
-![Make shortcuts](images/shortcut.jpg)
-<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
-
-Notes:
-	On fait référence aux chemins les plus pratiques pour les utilisateurs afin d'accéder à une fonctionnalité.
-	Cela peut être plus convenable pour un utilisateur expert
-
-  
-  
-  
-### 6- Make shortcuts
 ![Make shortcuts](images/shortcut.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
 > <div class="good fragment" data-fragment-index="2"> Good </div>
 
 Notes:
+	On fait référence aux chemins les plus pratiques pour les utilisateurs 
+	afin d'accéder à une fonctionnalité Cela peut être plus convenable pour un utilisateur expert
 	Un très bon exemple que je connais c'est celui de github
-	
+
 
 
 ### 7- Feedbacks <->
@@ -402,7 +390,7 @@ Notes:
 
 
 ### Keep in mind
->  <div class="fragment" data-fragment-index="1"><p class="quote">If <span class="highlight"> clients (or someone else) </span> don't get it, 
+> <div class=fragment" data-fragment-index="1"><p class="quote">If <span class="highlight"> clients (or someone else) </span> don't get it, 
  	there is generally something to be improved .</div>
  
 ![Thanks](images/thanks.png)
