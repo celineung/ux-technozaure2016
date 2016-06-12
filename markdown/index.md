@@ -355,6 +355,54 @@ Notes:
 
 
 
+### Le saviez-vous?
+
+<div class="bad-data">79%</div>
+
+> chercheront un autre site internet pour répondre à leurs besoins
+<!-- .element: class="fragment" data-fragment-index="1" data-transition="slide"-->
+
+Notes:
+    Les utilisateurs mobiles sont 5 fois plus exigeants
+
+
+
+### Le saviez-vous?
+
+> Une mauvaise expérience de service est relayée 17 fois, tandis qu'une bonne ne l'est que 3 fois
+<!-- .element: class="fragment" data-fragment-index="1" data-transition="slide"-->
+
+Notes:
+    Permet:
+    	 - Augmentation des ventes
+    	 - Besoin de moins de formations et de support
+
+
+
+### Le saviez-vous?
+
+<div class="bad-data">48%</div>
+
+> des utilisateurs pensent qu'un site qui ne marche pas bien sur mobile est dû au
+> fait que le métier ne s'en soucie pas
+<!-- .element: class="fragment" data-fragment-index="1" data-transition="slide"-->
+
+Notes:
+    Augmentation satisfaction client et fidélisation
+
+
+
+### Le saviez-vous?
+
+<div class="bad-data">40%</div>
+
+> du temps de développement est utilisé à développer et corriger des fonctionnalités inutiles aux utilisateurs
+
+Notes:
+    Moins de perte de temps, gain de productivité, baisse des coûts
+
+
+
 ### Comportements utilisateur
 
 </br>

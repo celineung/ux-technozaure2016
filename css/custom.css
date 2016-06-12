@@ -38,3 +38,8 @@
 	float: right;
 	text-align: right;
 }
+
+.reveal .bad-data {
+	font-size: 5em;
+	color: rgb(127, 38, 38);
+}
