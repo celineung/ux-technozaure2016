@@ -31,14 +31,29 @@
 
 .reveal .left {
 	float: left;
-	text-align: left;
 }
 
 .reveal .right {
 	float: right;
-	text-align: right;
 }
 
+.reveal .fixed {
+	width: 400px;
+}
+
+.reveal .imageRight{
+	float: right;
+	height: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.reveal .imageLeft{
+	float: left;
+	height: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
 .reveal .bad-data {
 	font-size: 5em;
 	color: rgb(127, 38, 38);

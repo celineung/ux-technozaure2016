@@ -8,64 +8,72 @@
 
 
 ---
-<!-- .slide:data-background="images/celine_1.jpg" data-background-position="right" data-background-size="500px auto"-->
-<blockquote>
-	<div class="highlight">Mes passions:</div>
-	<div>Lire, Voyager, Shopping</div>
-</blockquote>
-<!-- .element: class="fragment navigate-next left" data-fragment-index="1"  data-transition="slide"-->
-
-<br/>
-
-<blockquote>
-	<div class="highlight">Mes applications préférées:</div>
-	<div>ShowroomPrivée, Youtube, La Fourchette</div>
-</blockquote>
-<!-- .element: class="fragment navigate-next left" data-fragment-index="2"  data-transition="slide"-->
-
-<br/>
-
-<blockquote>
-	<div class="highlight">Ce que je n'aime pas:</div>
-	<div>Le désordre</div>
-</blockquote>
-<!-- .element: class="fragment navigate-next left" data-fragment-index="3"  data-transition="slide"-->
-
-
-
-
-<!-- .slide:data-background="images/houbeb_1.jpg" data-background-position="left" data-background-size="500px auto"-->
-<blockquote>
-	<div class="highlight">Mes passions:</div>
-	<div>Vélo, Yoga, Photographie</div>
-</blockquote>
-<!-- .element: class="fragment navigate-next right" data-fragment-index="1"  data-transition="slide"-->
-
-<br/>
-
-<blockquote>
-	<div class="highlight">Mes applications préférées:</div>
-	<div>Instagram, pogdesign, Spotify</div>
-</blockquote>
-<!-- .element: class="fragment navigate-next right" data-fragment-index="2"  data-transition="slide"-->
-
-<br/>
-
-<blockquote>
-	<div class="highlight">Ce que je n'aime pas:</div>
-	<div>Râler, l'indécision Et le site de Jenkins</div>
-</blockquote>
-<!-- .element: class="fragment navigate-next right" data-fragment-index="3"  data-transition="slide"-->
-
-
-
 ## Qui sommes nous?
 ![Prez](images/celine&houb_1.jpg)
 
 
 
 
-## Qui sommes nous?
+<div class="imageRight">
+<img src="images/celine_1.jpg" width="350" />
+</div>
+
+<div class="left">
+<blockquote class="fragment fixed" data-fragment-index="1"  data-transition="slide">
+	<div class="highlight">Mes passions:</div>
+	<div>Lire, Voyager, Shopping</div>
+</blockquote>
+
+<br/>
+
+<blockquote class="fragment fixed" data-fragment-index="2"  data-transition="slide">
+	<div class="highlight">Mes applications préférées:</div>
+	<div>ShowroomPrivée</div>
+	<div>Youtube</div>
+	<div>La Fourchette</div>
+</blockquote>
+
+<br/>
+
+<blockquote class="fragment fixed" data-fragment-index="3"  data-transition="slide">
+	<div class="highlight">Ce que je n'aime pas:</div>
+	<div>Le désordre</div>
+</blockquote>
+</div>
+
+
+
+
+
+<div class="imageLeft">
+<img src="images/houbeb_1.jpg" width="350" />
+</div>
+
+<div class="right">
+<blockquote class="fragment fixed" data-fragment-index="1"  data-transition="slide">
+	<div class="highlight">Mes passions:</div>
+	<div>Vélo, Yoga, Photographie</div>
+</blockquote>
+
+<br/>
+
+<blockquote class="fragment fixed" data-fragment-index="2"  data-transition="slide">
+	<div class="highlight">Mes applications préférées:</div>
+	<div>Instagram, pogdesign, Spotify</div>
+</blockquote>
+
+<br/>
+
+<blockquote class="fragment fixed" data-fragment-index="3"  data-transition="slide">
+	<div class="highlight">Ce que je n'aime pas:</div>
+	<div>Râler, l'indécision Et le site de Jenkins</div>
+</blockquote>
+</div>
+
+
+
+
+## On &#10084; UX &#128522;
 ![Prez](images/celine&houb_2.jpg)
 
 
@@ -191,25 +199,15 @@ Notes:
 
 
 
-
-### 1- Simple and natural dialogue
-![Simple and natural dialogue](images/dialog0.png)
-<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
-
-
-Notes:
-	Un contenu avec un bon wording c'est aussi le bon terme, la bonne typographie, le bon emplacement le bon ajustement
-	Il y a plein d'exemple qui illustrent ça
-
-
-
-
 ### 1- Simple and natural dialogue
 ![Simple and natural dialogue](images/dialog1.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
 
 > <div class="bad fragment" data-fragment-index="2"> Bad </div>
 
+Notes:
+	Un contenu avec un bon wording c'est aussi le bon terme, la bonne typographie, le bon emplacement le bon ajustement
+	Il y a plein d'exemple qui illustrent ça
 
 
 
@@ -266,10 +264,17 @@ Notes:
 
 
 ### 4- Use constructive error messages
-> « Help users recognize, diagnose, and recover from errors
-> Error messages should be expressed in plain language (no codes),
-> precisely indicate the problem, and constructively suggest a solution »
-<!-- .element: class="quote" -->
+
+> <div class="quote">« Help users recognize, diagnose,
+</br>
+ and <span class="highlight">recover </span> from errors.
+</br>
+ <span class="highlight">Error</span> messages should be expressed in plain language (no codes),
+</br>
+ precisely indicate <span class="highlight">the problem</span>,
+</br>
+ and constructively suggest <span class="highlight">a solution</span>. »
+ </div>
 
 Notes: 
 	Deux éléments qu'on cherche quand on a un message d'erreur: Pourquoi l'erreur s'est produite
