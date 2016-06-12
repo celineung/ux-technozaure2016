@@ -91,6 +91,12 @@
 ## Qu'est-ce que l'UX?
 ![good question](images/good_question.gif)
 
+Notes:
+   on ne parle pas de:
+       - process
+       - méthodologies
+       - outils
+
 
 
 ### Definitions
