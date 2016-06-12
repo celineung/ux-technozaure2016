@@ -138,6 +138,11 @@ Notes:
 
 
 ## Rentabilité
+![Rentabilité de l'UX, OUI!](images/rentabilite.png)
+
+
+
+## Rentabilité
 
 > <div class="quote">« La fonction la plus populaire est le <span class="highlight">bouton de recherche</span>, 
 parce que personne n’arrive à naviguer [...] la seconde fonction la plus 
