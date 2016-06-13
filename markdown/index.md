@@ -183,7 +183,7 @@ Notes:
 
 
 
-## Et sans UX?
+## Et sans UX? <i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
 ![Site sans UX](images/oldintranet.png)
 Notes:
 	site 100% orienté métier
@@ -390,7 +390,8 @@ Notes:
 
 ### Le saviez-vous?
 
-> Une mauvaise expérience de service est relayée 17 fois, tandis qu'une bonne ne l'est que 3 fois
+> <div>Une mauvaise expérience de service est relayée <span class="highlight">17 fois</span>, tandis qu'une bonne ne l'est que 
+<span class="highlight">3 fois</span></div>
 <!-- .element: class="fragment" data-fragment-index="1" data-transition="slide"-->
 
 Notes:
