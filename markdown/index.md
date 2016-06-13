@@ -90,7 +90,7 @@
 
 ## On parle de quoi?
 
-- Qu'est-ce que l'UX
+- Qu'est-ce que l'UX?
 - Comment qualifier une bonne UX?
 - Truth about users
 - Workshop
@@ -132,6 +132,7 @@ Notes:
 	Un utilisateur heureux du service apporté, reviendra
 	Donner des exemples d'anticipation qui plairont aux utilisateurs: contact du service client, 
 		ajout de telle ou telle fonctionalité, etc.
+		ex: Amazon et l'enregistrement de la carte de crédit
 
 
 
@@ -167,6 +168,7 @@ Notes:
 	Site au lancement de la nouvelle appli: 
 		traffic +120%
 		vente +400%
+	Un bon manager UX a pour objectif l'atteinte des objectifs business de l'entreprise par le biais d'une expérience utilisateur bien calibrée. Fournir une bonne UX est un peu comme un moyen marketing.
 
 
 
@@ -176,14 +178,6 @@ Notes:
 	site 100% orienté métier
 	ne tient pas compte des utilisateurs
 
-
-
-## Métier <span class="highlight">VS</span> Utilisateur
->  "C'est bizarre, où se trouve la fonctionalité qui permet de ...?"
-
-<br/>
-
-> "Après de nombreux workshops avec les utilisateurs, jamais on ne nous a dit que cette fonctionalité était importante."
 
 ---
 ## Comment qualifier une bonne UX?
