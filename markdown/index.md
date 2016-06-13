@@ -89,21 +89,31 @@
 
 
 ## On parle de quoi?
+<!-- .slide:data-background-color="#AF1E3A" data-background-size="100%" data-transition="zoom"-->
+> 
+<div class="list">
+<div class="fragment left bullet">&#9996; Qu'est-ce que l'UX</div>
+<div class="fragment left bullet">&#9998; Comment qualifier une bonne UX?</div>
+<div class="fragment left bullet">&#9775; Truth about users</div>
+<div class="fragment left bullet">&#9728; Workshop </div>
+</div>
+
+
 
 <blockquote class="fragment plan" data-fragment-index="0"  data-transition="slide">
-	<div><i class="fa fa-book" aria-hidden="true"></i> Qu'est-ce que l'UX?</div>
+	<div><i class="fa fa-book" aria-hidden="true"></i>&#9996; Qu'est-ce que l'UX?</div>
 </blockquote>
 
 <blockquote class="fragment" data-fragment-index="1"  data-transition="slide">
-	<div><i class="fa fa-eye" aria-hidden="true"></i> Comment qualifier une bonne UX?</div>
+	<div><i class="fa fa-eye" aria-hidden="true"></i>&#9998; Comment qualifier une bonne UX?</div>
 </blockquote>
 
 <blockquote class="fragment" data-fragment-index="2"  data-transition="slide">
-	<div><i class="fa fa-users" aria-hidden="true"></i> Truth about users</div>
+	<div><i class="fa fa-users" aria-hidden="true"></i>&#9775; Truth about users</div>
 </blockquote>
 
 <blockquote class="fragment" data-fragment-index="3"  data-transition="slide">
-	<div><i class="fa fa-desktop" aria-hidden="true"></i> Workshop</div>
+	<div><i class="fa fa-desktop" aria-hidden="true"></i>&#9728; Workshop</div>
 </blockquote>
 
 ---
@@ -315,7 +325,6 @@ Notes:
 
 
 
-
 ### 6- Make shortcuts
 ![Make shortcuts](images/shortcut.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
@@ -326,6 +335,17 @@ Notes:
 	On fait référence aux chemins les plus pratiques pour les utilisateurs 
 	afin d'accéder à une fonctionnalité Cela peut être plus convenable pour un utilisateur expert
 	Un très bon exemple que je connais c'est celui de github
+
+
+
+### 6- Make shortcuts
+![Make shortcuts](images/shortcut2.png)
+<!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
+
+> <div class="good fragment" data-fragment-index="2"> Good </div>
+
+Notes:
+	Les raccourcis ne sont pas forcément des raccourcis clavier mais plutôt
 
 
 
@@ -360,10 +380,16 @@ Notes:
 
 ### 8- Consistency
 
-> « Users should not have to wonder whether different words,
-> situations, or actions mean the same thing. Follow platform conventions. »
-<!-- .element: class="quote" -->
+> <div class="quote">« Users should not have to wonder whether different <span class="highlight">words</span>,
+ <span class="highlight">situations</span>, or <span class="highlight">actions</span> mean the same thing. Follow platform conventions. »
+</div>
 
+- Localisation des éléments
+- Libellés
+- Format et design graphique
+- Menus
+- Navigation
+- Interactions
 
 ---
 ## Truth about users

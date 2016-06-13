@@ -54,6 +54,7 @@
 	vertical-align: middle;
 	display: inline-block;
 }
+
 .reveal .bad-data {
 	display: block;
 	width: 200px;
@@ -72,4 +73,15 @@
 
 .reveal .fa {
 	padding-right: 15px; 
+}
+
+.reveal .bullet {
+	font-size: 1.0em;
+	line-height: 2.4;
+	width:100%;
+	text-align: left;
+}
+
+.reveal .list {
+	height: 400px;
 }
