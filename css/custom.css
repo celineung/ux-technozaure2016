@@ -55,6 +55,21 @@
 	display: inline-block;
 }
 .reveal .bad-data {
-	font-size: 5em;
-	color: rgb(127, 38, 38);
+	display: block;
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	border: 10px solid rgb(127, 38, 38);
+	font-size: 2em;
+	line-height: 200px;
+	text-align: center;
+	margin: auto auto;
+}
+
+.reveal blockquote.fragment.plan.visible {
+	margin-top: 100px;
+}
+
+.reveal .fa {
+	padding-right: 15px; 
 }

@@ -90,10 +90,21 @@
 
 ## On parle de quoi?
 
-- Qu'est-ce que l'UX?
-- Comment qualifier une bonne UX?
-- Truth about users
-- Workshop
+<blockquote class="fragment plan" data-fragment-index="0"  data-transition="slide">
+	<div><i class="fa fa-book" aria-hidden="true"></i> Qu'est-ce que l'UX?</div>
+</blockquote>
+
+<blockquote class="fragment" data-fragment-index="1"  data-transition="slide">
+	<div><i class="fa fa-eye" aria-hidden="true"></i> Comment qualifier une bonne UX?</div>
+</blockquote>
+
+<blockquote class="fragment" data-fragment-index="2"  data-transition="slide">
+	<div><i class="fa fa-users" aria-hidden="true"></i> Truth about users</div>
+</blockquote>
+
+<blockquote class="fragment" data-fragment-index="3"  data-transition="slide">
+	<div><i class="fa fa-desktop" aria-hidden="true"></i> Workshop</div>
+</blockquote>
 
 ---
 ## Qu'est-ce que l'UX?
