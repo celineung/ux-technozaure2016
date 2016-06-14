@@ -37,6 +37,9 @@
 	float: right;
 }
 
+.reveal .textRight {
+	text-align: left;
+}
 .reveal .fixed {
 	width: 400px;
 }
@@ -75,13 +78,6 @@
 	padding-right: 15px; 
 }
 
-.reveal .bullet {
-	font-size: 1.0em;
-	line-height: 2.4;
-	width:100%;
-	text-align: left;
-}
-
-.reveal .list {
-	height: 400px;
+.reveal .color {
+	background-color: #0d3349;
 }

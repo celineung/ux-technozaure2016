@@ -89,31 +89,21 @@
 
 
 ## On parle de quoi?
-<!-- .slide:data-background-color="#AF1E3A" data-background-size="100%" data-transition="zoom"-->
-> 
-<div class="list">
-<div class="fragment left bullet">&#9996; Qu'est-ce que l'UX</div>
-<div class="fragment left bullet">&#9998; Comment qualifier une bonne UX?</div>
-<div class="fragment left bullet">&#9775; Truth about users</div>
-<div class="fragment left bullet">&#9728; Workshop </div>
-</div>
 
-
-
-<blockquote class="fragment plan" data-fragment-index="0"  data-transition="slide">
-	<div><i class="fa fa-book" aria-hidden="true"></i>&#9996; Qu'est-ce que l'UX?</div>
+<blockquote class="fragment plan color" data-fragment-index="0"  data-transition="slide">
+	<div class="textRight"><i class="fa fa-book" aria-hidden="true"></i>Qu'est-ce que l'UX?</div>
 </blockquote>
 
-<blockquote class="fragment" data-fragment-index="1"  data-transition="slide">
-	<div><i class="fa fa-eye" aria-hidden="true"></i>&#9998; Comment qualifier une bonne UX?</div>
+<blockquote class="fragment color" data-fragment-index="1"  data-transition="slide">
+	<div class="textRight"><i class="fa fa-eye" aria-hidden="true"></i>Comment qualifier une bonne UX?</div>
 </blockquote>
 
-<blockquote class="fragment" data-fragment-index="2"  data-transition="slide">
-	<div><i class="fa fa-users" aria-hidden="true"></i>&#9775; Truth about users</div>
+<blockquote class="fragment color" data-fragment-index="2"  data-transition="slide">
+	<div class="textRight"><i class="fa fa-users" aria-hidden="true"></i>Truth about users</div>
 </blockquote>
 
-<blockquote class="fragment" data-fragment-index="3"  data-transition="slide">
-	<div><i class="fa fa-desktop" aria-hidden="true"></i>&#9728; Workshop</div>
+<blockquote class="fragment color" data-fragment-index="3"  data-transition="slide">
+	<div class="textRight"><i class="fa fa-desktop" aria-hidden="true"></i>Workshop</div>
 </blockquote>
 
 ---
