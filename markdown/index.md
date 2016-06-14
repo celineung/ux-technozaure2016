@@ -428,19 +428,6 @@ Notes:
 
 ### Le saviez-vous?
 
-> <div>Une mauvaise expérience de service est relayée <span class="highlight">17 fois</span>, tandis qu'une bonne ne l'est que 
-<span class="highlight">3 fois</span></div>
-<!-- .element: class="fragment" data-fragment-index="1" data-transition="slide"-->
-
-Notes:
-    Permet:
-    	 - Augmentation des ventes
-    	 - Besoin de moins de formations et de support
-
-
-
-### Le saviez-vous?
-
 <div class="bad-data">48%</div>
 
 > des utilisateurs pensent qu'un site qui ne marche pas bien sur mobile est dû au
@@ -463,12 +450,35 @@ Notes:
 
 
 
+### Le saviez-vous?
+
+<i class="fa fa-frown-o" style="font-size:5em;" aria-hidden="true"></i>
+
+> <div>Une mauvaise expérience de service est relayée <span class="highlight">17 fois</span>, tandis qu'une bonne ne l'est que 
+<span class="highlight">3 fois</span></div>
+<!-- .element: class="fragment" data-fragment-index="1" data-transition="slide"-->
+
+Notes:
+    Permet:
+    	 - Augmentation des ventes
+    	 - Besoin de moins de formations et de support
+
+
+
 ### Comportements utilisateur
 
-</br>
-* Don't make me think!
-* They Don’t Use Your Software The Way You Intended
-* They satisfice (satisfy + sacrifice)
+<blockquote class="fragment plan" data-fragment-index="0"  data-transition="slide">
+	<div class="textRight"><i class="fa fa-hourglass-end" aria-hidden="true"></i>Don't make me think!</div>
+</blockquote>
+
+<blockquote class="fragment" data-fragment-index="1"  data-transition="slide">
+	<div><i class="fa fa-child" aria-hidden="true"></i>They Don’t Use Your Software The Way You Intended</div>
+</blockquote>
+
+<blockquote class="fragment" data-fragment-index="2"  data-transition="slide">
+	<div class="textRight"><i class="fa fa-bomb" aria-hidden="true"></i>They satisfice (satisfy + sacrifice)</div>
+</blockquote>
+
 
 Notes:
 	La plupart du temps, ils font plusieurs choses en même temps (ex: manger, télé, etc.)
