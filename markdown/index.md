@@ -73,7 +73,7 @@
 
 
 
-## On &#10084; UX &#128522;
+## On <span class="highlight">&#10084;</span> UX &#128522;
 ![Prez](images/celine&houb_2.jpg)
 
 
@@ -90,19 +90,19 @@
 
 ## On parle de quoi?
 
-<blockquote class="fragment plan color" data-fragment-index="0"  data-transition="slide">
+<blockquote class="fragment plan" data-fragment-index="0"  data-transition="slide">
 	<div class="textRight"><i class="fa fa-book" aria-hidden="true"></i>Qu'est-ce que l'UX?</div>
 </blockquote>
 
-<blockquote class="fragment color" data-fragment-index="1"  data-transition="slide">
+<blockquote class="fragment" data-fragment-index="1"  data-transition="slide">
 	<div class="textRight"><i class="fa fa-eye" aria-hidden="true"></i>Comment qualifier une bonne UX?</div>
 </blockquote>
 
-<blockquote class="fragment color" data-fragment-index="2"  data-transition="slide">
+<blockquote class="fragment" data-fragment-index="2"  data-transition="slide">
 	<div class="textRight"><i class="fa fa-users" aria-hidden="true"></i>Truth about users</div>
 </blockquote>
 
-<blockquote class="fragment color" data-fragment-index="3"  data-transition="slide">
+<blockquote class="fragment" data-fragment-index="3"  data-transition="slide">
 	<div class="textRight"><i class="fa fa-desktop" aria-hidden="true"></i>Workshop</div>
 </blockquote>
 

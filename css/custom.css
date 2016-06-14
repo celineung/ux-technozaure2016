@@ -17,7 +17,7 @@
 }
 
 .reveal .highlight {
-	color: rgb(170, 255, 0);
+	color: #e02856;
 	font-weight:bold;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .reveal .bad {
-	background-color: rgb(127, 38, 38);
+	background-color: #DD1144;
 }
 
 .reveal .left {
@@ -75,9 +75,7 @@
 }
 
 .reveal .fa {
-	padding-right: 15px; 
-}
-
-.reveal .color {
-	background-color: #0d3349;
+	color: #e02856;
+	padding-right: 15px;
+	padding-left: 15px;
 }
