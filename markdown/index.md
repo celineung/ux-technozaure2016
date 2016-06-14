@@ -361,7 +361,7 @@ Notes:
 
 
 
-### 7- Feedbacks <->
+### 7- Feedbacks <i class="fa fa-exchange" aria-hidden="true"></i>
 ![Give feedbacks](images/feedback1.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -373,7 +373,7 @@ Notes:
 
 
 
-### 7- Feedbacks <->
+### 7- Feedbacks <i class="fa fa-exchange" aria-hidden="true"></i>
 ![Give feedbacks](images/feedback2.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
@@ -382,7 +382,7 @@ Notes:
 
 
 
-### 7- Feedbacks <->
+### 7- Feedbacks <i class="fa fa-exchange" aria-hidden="true"></i>
 ![Give feedbacks](images/feedback3.png)
 <!-- .element: class="fragment navigate-next" data-fragment-index="1" data-transition="slide"-->
 
