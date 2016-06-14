@@ -79,3 +79,8 @@
 	padding-right: 15px;
 	padding-left: 15px;
 }
+
+.reveal pre code{
+	max-height: 520px !important;
+	overflow: hidden;
+}

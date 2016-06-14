@@ -199,8 +199,30 @@ Notes:
 
 
 
-![Simple and natural dialogue](images/code.png)
-<!-- .element: class="fragment navigate-next" data-fragment-index="1"  data-transition="slide"-->
+### Comme dans le code ...
+
+    public Map<String, List<Article>> groupByAuthor(){
+        Map<String, List<Article>> result = new HashMap<>();
+    
+        for (Article article : articles) {
+            if (result.containsKey(article.getAuthor()) {
+                result.get(article.getAuthor()).add(article);
+              } else {
+                ArrayList<Article> articles = new ArrayList<>();
+                articles.add(article);
+                result.put(article.getAuthor(), articles);
+            }
+         }
+
+        return result;
+    }
+    
+    public Map<String, List<Article>> groupByAuthor(){
+
+        return articles.stream()
+        .collect(Collectors.groupingBy(Article:getAuthor));
+     }
+<!-- .element: class="code" data-fragment-index="1"  data-transition="slide"-->
 
 
 
