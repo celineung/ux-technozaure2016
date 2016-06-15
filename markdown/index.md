@@ -396,9 +396,9 @@ Notes:
  <span class="highlight">situations</span>, or <span class="highlight">actions</span> mean the same thing. Follow platform conventions. »
 </div>
 
-- Localisation des éléments
-- Libellés
-- Format et design graphique
+- Element positionning
+- Labels
+- Gaphic design
 - Menus
 - Navigation
 - Interactions
