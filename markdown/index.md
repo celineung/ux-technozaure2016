@@ -495,8 +495,8 @@ Notes:
 
 
 
-### We did it before 
-![previous-workshop](images/previous-workshop.png)
+### We did it before <i class="fa fa-rss" aria-hidden="true"></i>
+![previous-workshop](images/workshop1.png)
  
 
 ---
