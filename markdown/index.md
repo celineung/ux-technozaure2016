@@ -498,6 +498,14 @@ Notes:
 ### We did it before <i class="fa fa-rss" aria-hidden="true"></i>
 ![previous-workshop](images/workshop1.png)
  
+ Notes:
+ 	- plusieurs onglets ouverts: "qu'est-ce que l'onglet Accueil?"
+ 	- pas d'indication que l'on est sur la page Accueil
+ 	- trop d'infos sur les pages
+ 	- lorsque l'on clique sur "Java" de l'onglet "Expertise", on tombe sur une phrase bateau, sans détail, de ce qu'est l'expertise Zenika (frameworks, technos)
+ 	- la page de recrutement contient trop d'infos, alors que ce qui importe c'est voir les offers. Les offres prennent trop de place sur la page. et on ne peut en afficher que 3 max. La page met du temps à s'afficher.
+ 	- sur la page "évènement", trop de chose, rien n'est mis en avant
+ 	- trop de choix sur l'onglet formations: on est obligé d'utiliser la fonction de recherche. Il faudrait mieux organiser la page, et peut-être ajouter des retours stagiaires.
 
 ---
 
