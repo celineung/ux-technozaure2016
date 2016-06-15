@@ -498,7 +498,7 @@ Notes:
 ### We did it before <i class="fa fa-rss" aria-hidden="true"></i>
 ![previous-workshop](images/workshop1.png)
  
- Notes:
+Notes:
  	- plusieurs onglets ouverts: "qu'est-ce que l'onglet Accueil?"
  	- pas d'indication que l'on est sur la page Accueil
  	- trop d'infos sur les pages
